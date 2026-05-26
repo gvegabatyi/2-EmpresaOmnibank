@@ -6,7 +6,7 @@
 ##  Descripcion del Proyecto
 Este repositorio contiene el **Expediente de Cumplimiento Normativo y Gestion de Riesgos** de **OmniBank**, la filial financiera y fintech de **Holding OmniGroup**. 
 
-A diferencia de otras filiales, OmniBank opera bajo un estándar de **especialidad normativa extrema** debido a su naturaleza y a que ha sido precalificado como **Operador de Importancia Vital (OIV)** por la Agencia Nacional de Ciberseguridad (ANCI). Esto clasifica sus sistemas y base de datos como **Infraestructura Critica de la Informacion (ICI)** de interes nacional.
+A diferencia de otras filiales, OmniBank opera bajo un estándar de **especialidad normativa extrema** debido a su naturaleza y a que ha sido precalificado como **Operador de Importancia Vital (OIV)** . Esto clasifica sus sistemas y base de datos como **Infraestructura Critica de la Informacion (ICI)** de interes nacional.
 
 ---
 
@@ -36,7 +36,7 @@ Durante la auditoria legal-tecnica se identificaron las siguientes brechas de al
 * **Cifrado AES-256** del dataset financiero `omnibank_clientes.csv`.
 * **Air Gapping** fisico y logico en redes financieras.
 * Modificacion al **Reglamento Interno (RIHS)** del Holding para tipificar sanciones severas por filtracion de datos de infraestructura critica.
-* Implementacion de un **Manual del Delegado de Proteccion de Datos (DPD)** y canales ARCO específicos.
+* Implementacion de un **Manual del Delegado de Proteccion de Datos (DPD)** y canales ARSOBP específicos.
 
 ---
 

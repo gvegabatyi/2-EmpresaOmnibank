@@ -40,6 +40,15 @@ Durante la auditoria legal-tecnica se identificaron las siguientes brechas de al
 
 ---
 
+## ⚠️ Descargo de Responsabilidad / Disclaimer (Dataset)
+El archivo de datos **`omnibank_clientes.csv`** que forma parte de este portafolio de evidencias es un **dataset 100% ficticio, simulado y sintetizado** con fines estrictamente pedagogicos, academicos y de evaluacion de compliance. 
+
+*   **No contiene ni representa informacion real** de ningun cliente, transaccion, cuenta bancaria ni entidad financiera real.
+*   Toda relacion de variables, saldos o scores ha sido generada artificialmente para evaluar la madurez de los sistemas de gestion de riesgos y el cumplimiento normativo (Leyes 21.719 y 21.663).
+*   Cualquier coincidencia con personas, datos o situaciones reales es una absoluta coincidencia.
+
+---
+
 ## ⚖️ Responsable de la Auditoria
 **Gonzalo Vega Batyi**  
 *Abogado Experto en Ciberseguridad, Proteccion de Datos y DPO (Delegado de Proteccion de Datos).*  

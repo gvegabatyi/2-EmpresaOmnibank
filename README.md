@@ -51,6 +51,6 @@ El archivo de datos **`omnibank_clientes.csv`** que forma parte de este portafol
 
 ## Responsable de la Auditoria
 **Gonzalo Vega Batyi**  
-*Abogado Experto en Ciberseguridad, Proteccion de Datos y DPO (Delegado de Proteccion de Datos).*  
+*Abogado GRC Ciberseguridad, Proteccion de Datos.*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gvegabatyi)  
 *Holding OmniGroup: Compliance & Risk Lab*

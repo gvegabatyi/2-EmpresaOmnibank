@@ -1,16 +1,16 @@
-# 🏛️ OmniBank Fintech & Ciberseguridad - Portafolio de Cumplimiento
+# OmniBank Fintech & Ciberseguridad - Portafolio de Cumplimiento
 > **Expediente de Auditoria Legal y Tecnica bajo la Ley 21.719 (Proteccion de Datos Personales) y Ley 21.663 (Ley Marco de Ciberseguridad) en Chile.**
 
 ---
 
-## 📊 Descripcion del Proyecto
+##  Descripcion del Proyecto
 Este repositorio contiene el **Expediente de Cumplimiento Normativo y Gestion de Riesgos** de **OmniBank**, la filial financiera y fintech de **Holding OmniGroup**. 
 
 A diferencia de otras filiales, OmniBank opera bajo un estándar de **especialidad normativa extrema** debido a su naturaleza y a que ha sido precalificado como **Operador de Importancia Vital (OIV)** por la Agencia Nacional de Ciberseguridad (ANCI). Esto clasifica sus sistemas y base de datos como **Infraestructura Critica de la Informacion (ICI)** de interes nacional.
 
 ---
 
-## 📂 Contenido del Portafolio (Expedientes y Entregables)
+## Contenido del Portafolio (Expedientes y Entregables)
 
 El portafolio esta estructurado sistematicamente en **5 fases clave**, representadas en los documentos maestros PDF incluidos en este repositorio:
 
@@ -24,7 +24,7 @@ El portafolio esta estructurado sistematicamente en **5 fases clave**, represent
 
 ---
 
-## 🚨 Hallazgos Criticos Detectados (Gap Analysis)
+## Hallazgos Criticos Detectados (Gap Analysis)
 Durante la auditoria legal-tecnica se identificaron las siguientes brechas de alto impacto:
 1. **Quebre del Principio de Finalidad (Art. 9 Ley 21.719):** Flujo no autorizado de datos financieros y de perfilamiento crediticio (`Score_DICOM`, `Saldo_Promedio`) desde OmniBank hacia la filial de Retail con fines de marketing.
 2. **Vulnerabilidad de Infraestructura Critica (Ley 21.663):** Ausencia de segmentacion de red y "Air Gapping" entre el entorno del Retail y el Core Bancario, permitiendo un vector de ataque transfronterizo.
@@ -32,7 +32,7 @@ Durante la auditoria legal-tecnica se identificaron las siguientes brechas de al
 
 ---
 
-## 🛠️ Controles de Mitigacion Propuestos
+## Controles de Mitigacion Propuestos
 * **Cifrado AES-256** del dataset financiero `omnibank_clientes.csv`.
 * **Air Gapping** fisico y logico en redes financieras.
 * Modificacion al **Reglamento Interno (RIHS)** del Holding para tipificar sanciones severas por filtracion de datos de infraestructura critica.
@@ -40,7 +40,7 @@ Durante la auditoria legal-tecnica se identificaron las siguientes brechas de al
 
 ---
 
-## ⚠️ Descargo de Responsabilidad / Disclaimer (Dataset)
+## Descargo de Responsabilidad / Disclaimer (Dataset)
 El archivo de datos **`omnibank_clientes.csv`** que forma parte de este portafolio de evidencias es un **dataset 100% ficticio, simulado y sintetizado** con fines estrictamente pedagogicos, academicos y de evaluacion de compliance. 
 
 *   **No contiene ni representa informacion real** de ningun cliente, transaccion, cuenta bancaria ni entidad financiera real.
@@ -49,7 +49,7 @@ El archivo de datos **`omnibank_clientes.csv`** que forma parte de este portafol
 
 ---
 
-## ⚖️ Responsable de la Auditoria
+## Responsable de la Auditoria
 **Gonzalo Vega Batyi**  
 *Abogado Experto en Ciberseguridad, Proteccion de Datos y DPO (Delegado de Proteccion de Datos).*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gvegabatyi)  
